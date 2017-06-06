@@ -1,0 +1,14 @@
+XAMPP 1.8.3 （最好是这个版本）
+Notepad++
+
+安装好xampp后，在浏览器地址栏输入localhost
+
+使用phpMyAdmin设置数据库
+phpMyAdmin - Security ---- 设置root密码
+创建数据库、数据表、插入数据
+
+xampp/htdocs/mysql_login/  新建几个文件
+index.php
+login.php
+login_success.php
+logout.php

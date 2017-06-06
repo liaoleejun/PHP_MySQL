@@ -1,0 +1,3 @@
+配置php.ini去掉警告信息(NOTICE)的方法
+
+xampp\php\php.ini display_error = off

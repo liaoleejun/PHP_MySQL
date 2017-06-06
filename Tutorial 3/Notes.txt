@@ -1,0 +1,7 @@
+0. 登陆后，直接输入http://localhost/mysql_login/login_success.php，继续显示登陆
+
+1. 加入cookie
+登陆后，x秒钟，直接输入http://localhost/mysql_login/login_success.php，不能再继续显示登陆
+
+2. 增加退出
+
